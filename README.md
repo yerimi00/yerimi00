@@ -1,5 +1,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b5b5b,10:5b5b5b,30:5b5b5b,75:5b5b5b,100:5b5b5b&height=100&section=header&text=&fontSize=0" width="100%"/>
 
+<!-- info -->
+### :wave: Welcome!
+
+
+<!-- TASTEYOM -->
+## <a href="http://tasteyom.com"> :meat_on_bone:TASTEYOM </a>
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/49058580/173588612-70de547b-f053-4a7e-bf63-90a239c7867b.png)
+  
+</div>
+
+- This is my FIRST PROJECT
+- Full Stack developed
+
+
 ## Contact
 
 <div style="display:flex; flex-direction:row;">
