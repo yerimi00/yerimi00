@@ -1,7 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b5b5b,10:5b5b5b,30:5b5b5b,75:5b5b5b,100:5b5b5b&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=yerimi&fontSize=90)
+<div align="center">
+<br><br><br>
 
+<!-- Don't just fork or copy it. Star it, please 🥺  -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+yerim.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
+<br><br><br>
 
 ## Contact
 
@@ -35,4 +41,7 @@
 <a href="https://github.com/yerimi00/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yerimi00&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b5b5b,10:5b5b5b,30:5b5b5b,75:5b5b5b,100:5b5b5b&height=40&section=footer&text=&fontSize=0" width="100%"/>
