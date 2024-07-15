@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b5b5b,10:5b5b5b,30:5b5b5b,75:5b5b5b,100:5b5b5b&height=100&section=header&text=&fontSize=0" width="100%"/>
+
 ## Contact
 
 <div style="display:flex; flex-direction:row;">
@@ -20,7 +22,7 @@
 ![styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b5b5b,10:5b5b5b,30:5b5b5b,75:5b5b5b,100:5b5b5b&height=100&section=header&text=&fontSize=0" width="100%"/>
+
 <a href="https://github.com/yerimi00/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerimi00&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>     
