@@ -60,6 +60,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yerimi00&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
+
+ ## Information
+<div align="left">
+
+> Info
+- 이름 : 이예림
+- 소속 : 한국외국어대학교 컴퓨터공학부
+- E-mail : fhddl1019@gmail.com
+</div>
+
  ## Activities
 <div align="left">
     
