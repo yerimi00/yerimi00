@@ -76,13 +76,14 @@
 > 2023
 - 한국외국어대학교(Hankuk University of Foreign Studies) 컴퓨터공학부 입학
 - 한국외국어대학교 <b>멋쟁이사자처럼 11기 FE 트랙</b>
+- HUFSummer Hackathon "기숙사 세탁기 알림 서비스" 제작 (우수상 수)
 - 멋쟁이사자처럼 중앙 해커톤 <b>“황금연금”</b>팀
 - 멋쟁이사자처럼 간지톤(미르톤) - 대학연합해커톤 (2023.11.11 ~ 2023.11.12)
 
 > 2024
 - 한국외국어대학교 <b>멋쟁이사자처럼 12기 FE 트랙 운영진 </b>
 - 멋쟁이사자처럼 미니프로젝트 <b>"졸업할 결심"팀</b>
-- HUFSummer Hackathon "한식구(HUFamilyS)"
+- HUFSummer Hackathon "한식구(HUFamilyS)" (대상 수상)
 - 구름톤 유니브 3기 한국외대 부대표
 
   </div>
