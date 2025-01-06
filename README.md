@@ -4,7 +4,7 @@
 <br><br><br>
 
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
-![image](https://github.com/user-attachments/assets/321b2805-d5b6-432d-ae51-d2c933b829df)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+yerim.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
@@ -88,10 +88,12 @@
 - HUFSummer Hackathon <b>"한식구(HUFamilyS)"</b> FE 리드(대상 수상)
 - 멋쟁이사자처럼 중앙 해커톤 “현대인의 멘탈 케어 다이어리,<b> 소다(SODA)</b>” FE 개발
 - GovTech 해커톤 "봄봄(bombom)" FE 개발
-- [개발중] 한국외국어대학교 컴퓨터공학부 학회 "R-CUBE" 학회 페이지 제작(2024.08-현재) - FE 리드
+- 한국외국어대학교 컴퓨터공학부 학회 "R-CUBE" 학회 페이지 제작(2024.08-현재) - FE 리드
 - 구름톤 유니브 3기 한국외대 부대표
 - 멋쟁이 사자처럼 간지톤 운영진
 - HUFSThon 스타트업 자리 정보를 제공하는 <b>별자리</b> 서비스제작 (최우수상 수상)
+- [개발중] 동네 산책로 서비스 <b>"동산"</b> 개발 -FE 개발
+- [개발중] <b>모아[MO:A]</b> : 개발자를 위한 지능형 포트폴리오 플랫폼 - PM
 
   </div>
 
