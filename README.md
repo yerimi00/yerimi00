@@ -98,13 +98,13 @@
 - 나만의 산책로 생성 및 공유 웹앱, <b>동산</b>
 
 > 2025
-- 구름톤 유니브 4기 한국외대 대표
+- ☁구름톤 유니브 4기 한국외대 대표
 - ☁구름톤 유니브 4기 6지부 대표
 - 놓치는 공지 없이 빠르게 check, <b>ComnCheck</b>(한국외국어대학교 컴퓨터공학부 공지 알리미)
 - N-CUBE 학회장
 - 출첵.kr[ <b>chulcheck.kr</b> ]동아리 운영진을 위한 올인원 출석 플랫폼
 
-  </div>
+</div>
 
 
 <a href="https://github.com/yerimi00/github-readme-activity-graph">
