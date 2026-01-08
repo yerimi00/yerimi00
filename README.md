@@ -1,16 +1,37 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b5b5b,10:5b5b5b,30:5b5b5b,75:5b5b5b,100:5b5b5b&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<div align="center">
-<br><br><br>
+<div align="left">
 
-<!-- Don't just fork or copy it. Star it, please 🥺  -->
+<!--   -->
+## ☁ Information
 
+<div align="left" style="display: flex; flex-direction: column; gap: 16px;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+yerim.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+  <img 
+    width=auto 
+    height="340" 
+    alt="profile image" 
+    src="https://github.com/user-attachments/assets/288467b2-4266-474a-9f66-75d7655b09d2" 
+  />
 
-<br><br><br>
+  <div align="left">
 
-## Contact
+  > **Info**
+  - **이름** : 이예림  
+  - **소속** : 한국외국어대학교 컴퓨터공학부  
+  - **Location** : Yongin, South Korea  
+  - **Tel** : 010-2221-5418  
+  - **E-mail** : fhddl1019@gmail.com  
+
+  </div>
+
+</div>
+
+<br />
+<br />
+<br />
+
+## ☁ Contact
 
 <div align="left";style="display:flex; flex-direction:row;">
     <a href="mailto:fhddl1019@naver.com">
@@ -23,7 +44,7 @@
 
 <br>
 
-## Dev Stacks
+## ☁ Dev Stacks
 <div align="left";style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
@@ -36,7 +57,7 @@
 <br>
 <br>
 
-## Development Tools
+## ☁ Development Tools
 <div align="left";style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
@@ -61,16 +82,7 @@
 </a>
 
 
- ## Information
-<div align="left">
-
-> Info
-- 이름 : 이예림
-- 소속 : 한국외국어대학교 컴퓨터공학부
-- E-mail : fhddl1019@gmail.com
-</div>
-
- ## Activities
+ ## ☁ Activities
 <div align="left">
     
 > 2023
