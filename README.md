@@ -2,131 +2,118 @@
 
 <div align="left">
 
-<!--   -->
-## ☁ Information
+ ## ☁ Information
 
-<div align="left" style="display: flex; flex-direction: column; gap: 16px;">
+<!-- <img
+  src="https://github.com/user-attachments/assets/288467b2-4266-474a-9f66-75d7655b09d2"
+  alt="profile image"
+  width="240"
+  align="left"
+/> -->
 
-  <img 
-    width=auto 
-    height="340" 
-    alt="profile image" 
-    src="https://github.com/user-attachments/assets/288467b2-4266-474a-9f66-75d7655b09d2" 
-  />
+> **Info**
 
-  <div align="left">
+- **이름** : 이예림  
+- **소속** : 한국외국어대학교 컴퓨터공학부  
+- **Location** : Yongin, South Korea  
+- **Tel** : 010-2221-5418  
+- **E-mail** : fhddl1019@gmail.com  
 
-  > **Info**
-  - **이름** : 이예림  
-  - **소속** : 한국외국어대학교 컴퓨터공학부  
-  - **Location** : Yongin, South Korea  
-  - **Tel** : 010-2221-5418  
-  - **E-mail** : fhddl1019@gmail.com  
+> Contact
 
-  </div>
-
+<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+  <a href="mailto:fhddl1019@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  </a>
+  <a href="mailto:fhddl1019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/lyerimi00">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
 <br />
-<br />
-<br />
-
-## ☁ Contact
-
-<div align="left";style="display:flex; flex-direction:row;">
-    <a href="mailto:fhddl1019@naver.com">
-        <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logoColor=black&logo=naver"> 
-    </a>
-    <a href="https://www.instagram.com/lyerimi00">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-</div>
-
-<br>
 
 ## ☁ Dev Stacks
-<div align="left";style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white">
-    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-<br>
-<br>
+
+<br />
 
 ## ☁ Development Tools
-<div align="left";style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
-  <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white">
-
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-
-  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
 </div>
-<br>
 
+<br />
 
-<a href="https://github.com/yerimi00/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerimi00&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>     
-<a href="https://https://github.com/yerimi00/yerimi00">
-  <img src="https://github-readme-stats.vercel.app/api?username=yerimi00&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<a href="https://github.com/yerimi00">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerimi00&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
+</a>
+<a href="https://github.com/yerimi00">
+  <img src="https://github-readme-stats.vercel.app/api?username=yerimi00&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="56%" />
 </a>
 
+<br />
+<br />
 
- ## ☁ Activities
+## ☁ Activities
+
 <div align="left">
     
 > 2023
 - 한국외국어대학교(Hankuk University of Foreign Studies) 컴퓨터공학부 입학
-- 한국외국어대학교 <b>멋쟁이사자처럼 11기 FE 트랙</b>
+- 한국외국어대학교 **멋쟁이사자처럼 11기 FE 트랙**
 - 한국외국어대학교 컴퓨터공학부 학회 "R-CUBE" 학회원
-- HUFSummer Hackathon <b>"기숙사 세탁기 알림 서비스"</b> 제작 (우수상 수상)
-- 멋쟁이사자처럼 중앙 해커톤 <b>“황금연금”</b> FE 개발
+- HUFSummer Hackathon **"기숙사 세탁기 알림 서비스"** 제작 (우수상 수상)
+- 멋쟁이사자처럼 중앙 해커톤 **"황금연금"** FE 개발
 - 멋쟁이사자처럼 간지톤(미르톤) - 대학연합해커톤 (2023.11.11 ~ 2023.11.12)
 
 > 2024
-- 한국외국어대학교 <b>멋쟁이사자처럼 12기 FE 트랙 운영진 </b>
-- 멋쟁이사자처럼 미니프로젝트 " 외대인의 졸업학점계산을 책임질, <b>졸업할 결심</b>" FE 리드
-- 교내 프로젝트 "복학생, 신입생을 위한 학식 메이트 매칭 Platform , <b>Eating</b>" FE 개발 
-- HUFSummer Hackathon <b>"한식구(HUFamilyS)"</b> FE 리드(대상 수상)
-- 멋쟁이사자처럼 중앙 해커톤 “현대인의 멘탈 케어 다이어리,<b> 소다(SODA)</b>” FE 개발
-- GovTech 해커톤 "봄봄(bombom)" FE 개발
-- 한국외국어대학교 컴퓨터공학부 학회 "R-CUBE" 학회 페이지 제작(2024.08-현재) - FE 리드
+- 한국외국어대학교 **멋쟁이사자처럼 12기 FE 트랙 운영진**
+- 멋쟁이사자처럼 미니프로젝트 **"졸업할 결심"** FE 리드
+- 교내 프로젝트 **"Eating"** FE 개발
+- HUFSummer Hackathon **"한식구(HUFamilyS)"** FE 리드(대상 수상)
+- 멋쟁이사자처럼 중앙 해커톤 **"소다(SODA)"** FE 개발
+- GovTech 해커톤 **"봄봄(bombom)"** FE 개발
+- "R-CUBE" 학회 페이지 제작(2024.08-현재) - FE 리드
 - 구름톤 유니브 3기 한국외대 부대표
 - 멋쟁이 사자처럼 간지톤 운영진
-- HUFSThon 스타트업 자리 정보를 제공하는 <b>별자리</b> 서비스제작 (최우수상 수상)
-- 동아리를 운영하고 부원을 모집하는 과정을 더 편리하게, 📂 MoZip.모집
-- GDG on Campus  Member
-- <b>모아[MO:A]</b> : 개발자를 위한 지능형 포트폴리오 플랫폼 - **PM**
-- 나만의 산책로 생성 및 공유 웹앱, <b>동산</b>
+- HUFSThon **"별자리"** 서비스 제작 (최우수상 수상)
+- 📂 MoZip.모집
+- GDG on Campus Member
+- **모아[MO:A]** : 개발자를 위한 지능형 포트폴리오 플랫폼 - **PM**
+- 나만의 산책로 생성 및 공유 웹앱, **동산**
 
 > 2025
-- ☁구름톤 유니브 4기 한국외대 대표
-- ☁구름톤 유니브 4기 6지부 대표
-- 놓치는 공지 없이 빠르게 check, <b>ComnCheck</b>(한국외국어대학교 컴퓨터공학부 공지 알리미)
+- ☁ 구름톤 유니브 4기 한국외대 대표
+- ☁ 구름톤 유니브 4기 6지부 대표
+- **ComnCheck** (한국외국어대학교 컴퓨터공학부 공지 알리미)
 - N-CUBE 학회장
-- 출첵.kr[ <b>chulcheck.kr</b> ]동아리 운영진을 위한 올인원 출석 플랫폼
+- 출첵.kr **chulcheck.kr** (운영진을 위한 올인원 출석 플랫폼)
 
 </div>
 
 
-<a href="https://github.com/yerimi00/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yerimi00&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+<a href="https://github.com/yerimi00">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yerimi00&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
 </a>
 
-
-
-
-
-
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b5b5b,10:5b5b5b,30:5b5b5b,75:5b5b5b,100:5b5b5b&height=40&section=footer&text=&fontSize=0" width="100%"/>
