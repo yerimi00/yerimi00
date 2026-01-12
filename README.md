@@ -2,6 +2,8 @@
 
 <div align="left">
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yerimi00&show_icons=true&theme=radical">
+
  ## ☁ Information
 
 <!-- <img
