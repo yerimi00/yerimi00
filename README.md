@@ -1,17 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b5b5b,10:5b5b5b,30:5b5b5b,75:5b5b5b,100:5b5b5b&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<div align="left">
+<div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yerimi00&show_icons=true&theme=radical">
 
+<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+
  ## ☁ Information
 
-<!-- <img
-  src="https://github.com/user-attachments/assets/288467b2-4266-474a-9f66-75d7655b09d2"
-  alt="profile image"
-  width="240"
-  align="left"
-/> -->
 
 > **Info**
 
@@ -104,7 +100,7 @@
 
 
 </div>
-
+<div align="left">
 
 ## 🏆 Awards
 
@@ -115,6 +111,7 @@
 
 ## ☁ Activities
 
+</div>
 <div align="left">
     
 > 2023
@@ -150,12 +147,15 @@
 - 구름톤 유니브 4기 시즌톤[ 2025 kakao X 9oorm 시즌톤 ] 최우수상
 
 </div>
+</div>
 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b5b5b,10:5b5b5b,30:5b5b5b,75:5b5b5b,100:5b5b5b&height=40&section=footer&text=&fontSize=0" width="100%"/>
+
+<div align="center">
 
 <a href="https://github.com/yerimi00">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yerimi00&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
 </a>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b5b5b,10:5b5b5b,30:5b5b5b,75:5b5b5b,100:5b5b5b&height=40&section=footer&text=&fontSize=0" width="100%"/>
+</div></div>
