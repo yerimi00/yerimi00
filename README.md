@@ -145,6 +145,7 @@
 - N-CUBE 학회장
 - 출첵.kr **chulcheck.kr** (운영진을 위한 올인원 출석 플랫폼)
 - 구름톤 유니브 4기 시즌톤[ 2025 kakao X 9oorm 시즌톤 ] 최우수상
+- University MakeUs Challenge 9th web 파트장
 
 </div>
 </div>
