@@ -4,6 +4,10 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yerimi00&show_icons=true&theme=radical">
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/yerimi00"/>
+</a>
+
 <div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
 
  ## ☁ Information
