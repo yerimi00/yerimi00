@@ -18,8 +18,6 @@
 - **이름** : 이예림  
 - **소속** : 한국외국어대학교 컴퓨터공학부  
 - **Location** : Yongin, South Korea  
-- **Tel** : 010-2221-5418  
-- **E-mail** : fhddl1019@gmail.com  
 
 > Contact
 
