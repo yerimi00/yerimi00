@@ -101,7 +101,7 @@
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yerimi00&theme=dark" /> -->
 
 
-</div>
+<!-- </div>
 <div align="left">
 
 ## 🏆 Awards
@@ -150,7 +150,7 @@
 - University MakeUs Challenge 9th web 파트장
 
 </div>
-</div>
+</div> -->
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b5b5b,10:5b5b5b,30:5b5b5b,75:5b5b5b,100:5b5b5b&height=40&section=footer&text=&fontSize=0" width="100%"/>
