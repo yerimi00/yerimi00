@@ -101,7 +101,7 @@
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yerimi00&theme=dark" /> -->
 
 
-<!-- </div>
+<!-- </div>-->
 <div align="left">
 
 ## 🏆 Awards
@@ -111,7 +111,7 @@
 - 2024 HUFSThon **"별자리"** 서비스 제작 (최우수상 수상)
 - 2025 구름톤 유니브 4기 시즌톤[ 2025 kakao X 9oorm 시즌톤 ] 최우수상
 
-## ☁ Activities
+<!--## ☁ Activities
 
 </div>
 <div align="left">
